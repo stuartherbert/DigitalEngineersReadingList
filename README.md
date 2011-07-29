@@ -59,7 +59,9 @@ If it is happening and it is important, then chances are it will appear on one o
 
 The next set of blogs are useful because they sometimes pick up stories missed by the big four:
 
-
+* [Digg's Technology Feed] (http://digg.com/news/technology/media/recent) Feeds: [RSS] (http://digg.com/news/technology/media/recent.rss)
+* [The Register] (http://www.theregister.co.uk/) Feeds: [RSS] (http://www.theregister.co.uk/Design/page/feeds.html)
+* [Slashdot] (http://slashdot.org) Feeds: [RSS] (http://rss.slashdot.org/Slashdot/slashdot)
 
 Tech Giants
 -----------

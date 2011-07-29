@@ -157,4 +157,4 @@ And Last But Not Least
 Everyone needs a bit of humour, especially to remind you that no matter how bad it seems where you're working, it's probably worse elsewhere!
 
 * [The Daily WTF] (http://thedailywtf.com) Feeds: [RSS] (http://syndication.thedailywtf.com/TheDailyWtf)
-* [XKCD] (http://xkcd.com) [RSS] (http://xkcd.com/rss.xml)
+* [XKCD] (http://xkcd.com) Feeds: [RSS] (http://xkcd.com/rss.xml)

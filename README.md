@@ -35,6 +35,7 @@ Web Design / Frontend Stuff
 ---------------------------
 
 * [A List Apart] (http://www.alistapart.com) Feeds: [RSS] (http://www.alistapart.com/rss.xml)
+* [Think Vitamin] (http://thinkvitamin.com) Feeds: [RSS] (http://feeds.feedburner.com/vitaminmasterfeed)
 * [UX Matters] (http://www.uxmatters.com/) Feeds: [RSS] (http://www.uxmatters.com/index.xml)
 * [UX Movement] (http://uxmovement.com) Feeds: [RSS] (http://uxmovement.com/rss-feed/)
 
@@ -69,6 +70,7 @@ If it is happening and it is important, then chances are it will appear on one o
 
 The next set of blogs are useful because they sometimes pick up stories missed by the big four:
 
+* [All Things Digital] (http://allthingsd.com) Feeds: [RSS] (http://allthingsd.com/feed/)
 * [Digg's Technology Feed] (http://digg.com/news/technology/media/recent) Feeds: [RSS] (http://digg.com/news/technology/media/recent.rss)
 * [The Register] (http://www.theregister.co.uk/) Feeds: [RSS] (http://www.theregister.co.uk/Design/page/feeds.html)
 * [Slashdot] (http://slashdot.org) Feeds: [RSS] (http://rss.slashdot.org/Slashdot/slashdot)

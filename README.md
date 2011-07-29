@@ -72,6 +72,7 @@ If it is happening and it is important, then chances are it will appear on one o
 * [ReadWriteWeb] (http://www.readwriteweb.com) Feeds: [RSS] (http://www.readwriteweb.com/rss.xml)
 * [Techcrunch] (http://techcrunch.com/) Feeds: [RSS] (http://techcrunch.com/rssfeeds/)
 * [Techmeme] (http://techmeme.com/) Feeds: [RSS] (http://www.techmeme.com/feed.xml)
+* [Hacker News] (http://news.ycombinator.com) Feeds: (http://news.ycombinator.com/rss)
 
 The next set of blogs are useful because they sometimes pick up stories missed by the big four:
 

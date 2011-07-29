@@ -1,5 +1,5 @@
-Digital Engineers' Reading List
-===============================
+Digital Engineers' Daily Reading List
+=====================================
 
 I do a lot of mentoring of PHP Developers, and as part of that, I spend quite a bit of time showing folks where to go to keep up with news and trends with PHP, the wider community, and the web ecosystem in general.  Instead of repeating myself all the time, I thought it would be a sensible thing to maintain a list of my recommendations in one place, to make it easier for everyone to track.
 

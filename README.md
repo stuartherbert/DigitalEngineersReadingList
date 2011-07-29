@@ -10,6 +10,8 @@ If you know of any resources that the general PHP developer community / ecosyste
 PHP Development
 ---------------
 
+If you're writing PHP code, there are a few key feeds to follow to keep up with PHP's ongoing evolution, and how people are using it in anger:
+
 * [PHP.net] (http://www.php.net/) Feeds: [RSS] (http://www.php.net/feed.atom)
 
     The official website for PHP.  Not a lot of news published here, but useful when it does appear.

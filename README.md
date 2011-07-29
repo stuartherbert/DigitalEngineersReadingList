@@ -18,6 +18,10 @@ PHP Development
 
     The same is true of Planet MySQL.
 
+* [Planet PHPUnit] (http://planet.phpunit.de) Feeds: [RSS] (http://planet.phpunit.de/atom.xml)
+
+    You are unit-testing your work, right?  If so, chances are you're using Sebastian Bergmann's PHPUnit, the de facto standard tool for unit testing PHP code.
+
 Browsers
 --------
 

@@ -28,6 +28,13 @@ If you're writing PHP code, there are a few key feeds to follow to keep up with 
 
     You are unit-testing your work, right?  If so, chances are you're using Sebastian Bergmann's PHPUnit, the de facto standard tool for unit testing PHP code.
 
+PHP Frameworks
+--------------
+
+Frameworks are becoming a key way forward for more and more websites and web-based applications written in PHP.  There are too many PHP Frameworks for me to recommend that you read what all of them are up to, but there are a few key ones you should keep an eye on, whether you use them or not.
+
+
+
 Ruby On Rails Development
 -------------------------
 

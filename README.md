@@ -53,4 +53,5 @@ The Social Web And General Tech News
 The four main technology sources today are (in no particular order):
 
 * [Engadget] (http://engadget.com) Feeds: [RSS] (http://feeds.engadget.com/weblogsinc/engadget)
+* [ReadWriteWeb] (http://www.readwriteweb.com) Feeds: [RSS] (http://www.readwriteweb.com/rss.xml)
 * [Techcrunch] (http://techcrunch.com/) Feeds: [RSS] (http://techcrunch.com/rssfeeds/)

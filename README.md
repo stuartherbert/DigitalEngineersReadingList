@@ -41,7 +41,7 @@ Browsers
 
 Major browser news tends to turn up on the general technology blogs, but you really should make the time and effort to go and read the original source material too.  Right now, there are only three browsers that you need to pay attention to:
 
-* Google Chrome
+* [Google Chrome] (http://chrome.blogspot.com/) Feeds: [RSS] (http://chrome.blogspot.com/atom.xml)
 * Mozilla Firefox
 * [Internet Explorer] (http://blogs.msdn.com/ie/) Feeds: [RSS] (http://blogs.msdn.com/ie/atom.xml)
 

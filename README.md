@@ -53,10 +53,11 @@ Once you've subscribed to Linux Weekly News, you might find the following sites 
 
 * [Freshmeat] (http://freshmeat.net) Feeds: [RSS] (http://freshmeat.net/?format=atom)
 
-Servers, Platforms, Clouds
---------------------------
+Servers, Platforms, Clouds, Enterprise
+--------------------------------------
 
 * [High Scalability] (http://highscalability.com) Feeds: [RSS] (http://highscalability.com/rss.xml)
+* [InfoQ] (http://infoq.com) Feeds: [RSS] (http://www.infoq.com/rss/rss.action?token=fz2XKmURyotcK9328S1OPeg3TKsydT5A)
 
 General Tech News
 -----------------

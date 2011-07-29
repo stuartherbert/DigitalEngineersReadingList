@@ -122,3 +122,8 @@ These aren't all strictly tech blogs, but I'd recommend them anyway to help you 
 * [LifeHack] (http://lifehack.org) Feeds: [RSS] (http://feeds.feedburner.com/LifeHack/)
 * [LifeHacker] (http://lifehacker.com) Feeds: [RSS] (http://www.lifehacker.com/software/mac-os-x/index.xml)
 * [MindHacks] (http://www.mindhacks.com) Feeds: [RSS] (http://www.mindhacks.com/index.rdf)
+
+And Last But Not Least
+----------------------
+
+Read [XKCD] (http://xkcd.com) [RSS] (http://xkcd.com/rss.xml) to put a smile on your face several times a week :)

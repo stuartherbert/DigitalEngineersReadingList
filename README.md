@@ -91,3 +91,9 @@ Today's tech giants set the trends, and open-source the technologies, that tomor
 * [Facebook Developers Network] (http://developers.facebook.com/blog/) [RSS] (http://developers.facebook.com/news.php?blog=1&format=xml)
 * [Inside Facebook] (http://www.insidefacebook.com) Feeds: [RSS] (http://feeds.feedburner.com/InsideFacebook)
 
+Startups
+--------
+
+I keep an eye out for news about new startups for two reasons: they might solve a problem I'm struggling with, and they might inspire me to solve my own problems.  Plus it's always uplifting to see people striking out and trying to do their own thing.
+
+* [Killer Startups] (http://www.killerstartups.com) Feeds: [RSS] (http://feeds.feedburner.com/killerstartups/BkQv)

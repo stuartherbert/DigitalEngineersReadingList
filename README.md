@@ -26,6 +26,13 @@ PHP Development
 
     You are unit-testing your work, right?  If so, chances are you're using Sebastian Bergmann's PHPUnit, the de facto standard tool for unit testing PHP code.
 
+Ruby On Rails Development
+-------------------------
+
+I'm not a Rails developer myself, but there's no denying that Rails has led where the majority of PHP Frameworks have followed.  If you're in a leadership role in a PHP shop, it's worth keeping an eye on how the Rails community are solving their problems, as you might find something that will solve yours too.
+
+* [The ChangeLog] (http://thechangelog.com/) Feeds: [RSS] (http://feeds.feedburner.com/thechangelog)
+
 Browsers
 --------
 

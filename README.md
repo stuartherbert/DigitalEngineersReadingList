@@ -72,7 +72,6 @@ If it is happening and it is important, then chances are it will appear on one o
 * [ReadWriteWeb] (http://www.readwriteweb.com) Feeds: [RSS] (http://www.readwriteweb.com/rss.xml)
 * [Techcrunch] (http://techcrunch.com/) Feeds: [RSS] (http://techcrunch.com/rssfeeds/)
 * [Techmeme] (http://techmeme.com/) Feeds: [RSS] (http://www.techmeme.com/feed.xml)
-* [Hacker News] (http://news.ycombinator.com) Feeds: (http://news.ycombinator.com/rss)
 
 The next set of blogs are useful because they sometimes pick up stories missed by the big four:
 
@@ -102,6 +101,7 @@ Startups
 
 I keep an eye out for news about new startups for two reasons: they might solve a problem I'm struggling with, and they might inspire me to solve my own problems.  Plus it's always uplifting to see people striking out and trying to do their own thing.
 
+* [Hacker News] (http://news.ycombinator.com) Feeds: (http://news.ycombinator.com/rss)
 * [Killer Startups] (http://www.killerstartups.com) Feeds: [RSS] (http://feeds.feedburner.com/killerstartups/BkQv)
 
 Miscellaneous Stuff

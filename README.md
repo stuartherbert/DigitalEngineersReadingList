@@ -66,3 +66,8 @@ The next set of blogs are useful because they sometimes pick up stories missed b
 Tech Giants
 -----------
 
+Today's tech giants set the trends, and open-source the technologies, that tomorrow's startups are keen to follow and use.
+
+**Facebook:**
+
+* [All Facebook] (http://www.allfacebook.com/) Feeds: [RSS] (http://feeds.feedburner.com/allfacebook)

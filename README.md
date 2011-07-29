@@ -75,6 +75,10 @@ The next set of blogs are useful because they sometimes pick up stories missed b
 * [The Register] (http://www.theregister.co.uk/) Feeds: [RSS] (http://www.theregister.co.uk/Design/page/feeds.html)
 * [Slashdot] (http://slashdot.org) Feeds: [RSS] (http://rss.slashdot.org/Slashdot/slashdot)
 
+These blogs are useful because they're aimed as much at people who use technology as those of us creating it:
+
+* [Guardian Technology] (http://www.guardian.co.uk/technology) Feeds: [RSS] (http://feeds.guardian.co.uk/theguardian/technology/rss)
+
 Tech Giants
 -----------
 

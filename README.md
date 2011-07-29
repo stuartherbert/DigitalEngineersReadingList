@@ -12,7 +12,7 @@ PHP Development
 
 * [Planet PHP] (http://www.planet-php.net) Feeds: [RSS] ()
 
-   This is your one-stop shop for keeping up with the blogs of individual developers working in PHP today.  Anyone who is doing useful work for the wider PHP community will be on here.
+    This is your one-stop shop for keeping up with the blogs of individual developers working in PHP today.  Anyone who is doing useful work for the wider PHP community will be on here.
 
 Browsers
 --------

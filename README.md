@@ -138,7 +138,7 @@ Startups
 
 I keep an eye out for news about new startups for two reasons: they might solve a problem I'm struggling with, and they might inspire me to solve my own problems.  Plus it's always uplifting to see people striking out and trying to do their own thing.
 
-* [Hacker News] (http://news.ycombinator.com) Feeds: (http://news.ycombinator.com/rss)
+* [Hacker News] (http://news.ycombinator.com) Feeds: [RSS] (http://news.ycombinator.com/rss)
 * [Killer Startups] (http://www.killerstartups.com) Feeds: [RSS] (http://feeds.feedburner.com/killerstartups/BkQv)
 
 Miscellaneous Stuff

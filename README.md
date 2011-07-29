@@ -115,6 +115,7 @@ The next set of blogs are useful because they sometimes pick up stories missed b
 
 These blogs are useful because they're aimed as much at people who use technology as those of us creating it:
 
+* [Ars Technica] (http://arstechnica.com/) Feeds: [RSS] (http://feeds.arstechnica.com/arstechnica/everything)
 * [Guardian Technology] (http://www.guardian.co.uk/technology) Feeds: [RSS] (http://feeds.guardian.co.uk/theguardian/technology/rss)
 
 Tech Giants

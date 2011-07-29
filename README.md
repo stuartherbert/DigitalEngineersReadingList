@@ -97,3 +97,10 @@ Startups
 I keep an eye out for news about new startups for two reasons: they might solve a problem I'm struggling with, and they might inspire me to solve my own problems.  Plus it's always uplifting to see people striking out and trying to do their own thing.
 
 * [Killer Startups] (http://www.killerstartups.com) Feeds: [RSS] (http://feeds.feedburner.com/killerstartups/BkQv)
+
+Miscellaneous Stuff
+-------------------
+
+These aren't all strictly tech blogs, but I'd recommend them anyway to help you be a more self-sufficient and thoughtful dev.
+
+* (LifeHack) [http://lifehack.org] Feeds: [RSS] (http://feeds.feedburner.com/LifeHack/)

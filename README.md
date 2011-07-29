@@ -78,6 +78,7 @@ The next set of blogs are useful because they sometimes pick up stories missed b
 * [All Things Digital] (http://allthingsd.com) Feeds: [RSS] (http://allthingsd.com/feed/)
 * [Digg's Technology Feed] (http://digg.com/news/technology/media/recent) Feeds: [RSS] (http://digg.com/news/technology/media/recent.rss)
 * [The Register] (http://www.theregister.co.uk/) Feeds: [RSS] (http://www.theregister.co.uk/Design/page/feeds.html)
+* [The Register Developer] (http://www.regdeveloper.co.uk) Feeds: [RSS] (http://www.regdeveloper.co.uk/headlines.atom)
 * [Slashdot] (http://slashdot.org) Feeds: [RSS] (http://rss.slashdot.org/Slashdot/slashdot)
 
 These blogs are useful because they're aimed as much at people who use technology as those of us creating it:

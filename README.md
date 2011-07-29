@@ -33,6 +33,7 @@ PHP Frameworks
 
 Frameworks are becoming a key way forward for more and more websites and web-based applications written in PHP.  There are too many PHP Frameworks for me to recommend that you read what all of them are up to, but there are a few key ones you should keep an eye on, whether you use them or not.
 
+* [Symfony] (http://symfony.com/) Feeds: [RSS] (http://feeds.feedburner.com/symfony/blog)
 * [Zend Framework] (http://framework.zend.com/) Feeds: [RSS] (http://feeds.feedburner.com/ZendDeveloperZone)
 
 Ruby On Rails Development

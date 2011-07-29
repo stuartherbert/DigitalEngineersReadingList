@@ -113,6 +113,10 @@ The next set of blogs are useful because they sometimes pick up stories missed b
 * [The Register Developer] (http://www.regdeveloper.co.uk) Feeds: [RSS] (http://www.regdeveloper.co.uk/headlines.atom)
 * [Slashdot] (http://slashdot.org) Feeds: [RSS] (http://rss.slashdot.org/Slashdot/slashdot)
 
+These blogs are focused on hardware:
+
+* [Toms Hardware] (http://www.tomshardware.com) Feeds: [RSS] (http://feeds.pheedo.com/toms_hardware)
+
 These blogs are useful because they're aimed as much at people who use technology as those of us creating it:
 
 * [Ars Technica] (http://arstechnica.com/) Feeds: [RSS] (http://feeds.arstechnica.com/arstechnica/everything)

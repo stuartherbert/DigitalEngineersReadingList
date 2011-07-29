@@ -31,6 +31,8 @@ Ruby On Rails Development
 
 I'm not a Rails developer myself, but there's no denying that Rails has led where the majority of PHP Frameworks have followed.  If you're in a leadership role in a PHP shop, it's worth keeping an eye on how the Rails community are solving their problems, as you might find something that will solve yours too.
 
+* [Riding Rails] (http://weblog.rubyonrails.org/) Feeds: [RSS] (http://feeds.feedburner.com/RidingRails)
+* [Ruby Inside] (http://www.rubyinside.com/) Feeds: [RSS] (http://www.rubyinside.com/feed/)
 * [The ChangeLog] (http://thechangelog.com/) Feeds: [RSS] (http://feeds.feedburner.com/thechangelog)
 
 Browsers

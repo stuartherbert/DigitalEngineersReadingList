@@ -47,3 +47,9 @@ Servers, Platforms, Clouds
 
 * [High Scalability] (http://highscalability.com) Feeds: [RSS] (http://highscalability.com/rss.xml)
 
+The Social Web And General Tech News
+------------------------------------
+
+The four main technology sources today are (in no particular order):
+
+* [Engadget] (http://engadget.com) Feeds: [RSS] (http://feeds.engadget.com/weblogsinc/engadget)

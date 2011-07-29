@@ -33,8 +33,17 @@ PHP Frameworks
 
 Frameworks are becoming a key way forward for more and more websites and web-based applications written in PHP.  There are too many PHP Frameworks for me to recommend that you read what all of them are up to, but there are a few key ones you should keep an eye on, whether you use them or not.
 
+These are the MVC-like frameworks that developers use to create applications from scratch:
+
 * [Symfony] (http://symfony.com/) Feeds: [RSS] (http://feeds.feedburner.com/symfony/blog)
 * [Zend Framework] (http://framework.zend.com/) Feeds: [RSS] (http://feeds.feedburner.com/ZendDeveloperZone)
+
+These are the leading content frameworks that developers use to quickly build-out content websites:
+
+* [Drupal] (http://drupal.org) Feeds: [RSS] (http://drupal.org/node/feed)
+* [Planet Drupal] (http://drupal.org/planet) Feeds: [RSS] (http://drupal.org/planet/rss.xml)
+* [Wordpress] (http://wordpress.org) Feeds: [RSS] (http://wordpress.org/news/feed/)
+* [Planet Wordpress] (http://planet.wordpress.org/) Feeds: [RSS] (http://planet.wordpress.org/feed/)
 
 Ruby On Rails Development
 -------------------------

@@ -37,3 +37,8 @@ LAMP Stack Users
 ----------------
 
 If you use Linux anywhere in your development, test or production environments, then you must must *must* go out right now and purchase a subscription to [Linux Weekly News] (http://lwn.net). It is the one place to keep up with what is going on in the Linux community, and is worth every single penny.
+
+Once you've subscribed to Linux Weekly News, you might find the following sites to be sources of useful additional information:
+
+* [Freshmeat] (http://freshmeat.net) Feeds: [RSS] (http://freshmeat.net/?format=atom)
+

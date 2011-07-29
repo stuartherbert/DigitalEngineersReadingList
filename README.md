@@ -36,6 +36,7 @@ Web Design / Frontend Stuff
 
 * [A List Apart] (http://www.alistapart.com) Feeds: [RSS] (http://www.alistapart.com/rss.xml)
 * [UX Matters] (http://www.uxmatters.com/) Feeds: [RSS] (http://www.uxmatters.com/index.xml)
+* [UX Movement] (http://uxmovement.com) Feeds: [RSS] (http://uxmovement.com/rss-feed/)
 
 Back Office / Server-Side Stuff
 -------------------------------

@@ -47,11 +47,20 @@ Servers, Platforms, Clouds
 
 * [High Scalability] (http://highscalability.com) Feeds: [RSS] (http://highscalability.com/rss.xml)
 
-The Social Web And General Tech News
-------------------------------------
+General Tech News
+-----------------
 
-The four main technology sources today are (in no particular order):
+If it is happening and it is important, then chances are it will appear on one or all of these main tech blogs:
 
 * [Engadget] (http://engadget.com) Feeds: [RSS] (http://feeds.engadget.com/weblogsinc/engadget)
 * [ReadWriteWeb] (http://www.readwriteweb.com) Feeds: [RSS] (http://www.readwriteweb.com/rss.xml)
 * [Techcrunch] (http://techcrunch.com/) Feeds: [RSS] (http://techcrunch.com/rssfeeds/)
+* [Techmeme] (http://techmeme.com/) Feeds: [RSS] (http://www.techmeme.com/feed.xml)
+
+The next set of blogs are useful because they sometimes pick up stories missed by the big four:
+
+
+
+Tech Giants
+-----------
+

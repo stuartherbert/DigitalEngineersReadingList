@@ -71,3 +71,5 @@ Today's tech giants set the trends, and open-source the technologies, that tomor
 **Facebook:**
 
 * [All Facebook] (http://www.allfacebook.com/) Feeds: [RSS] (http://feeds.feedburner.com/allfacebook)
+* [Inside Facebook] (http://www.insidefacebook.com) Feeds: [RSS] (http://feeds.feedburner.com/InsideFacebook)
+

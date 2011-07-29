@@ -43,6 +43,7 @@ Major browser news tends to turn up on the general technology blogs, but you rea
 
 * [Google Chrome] (http://chrome.blogspot.com/) Feeds: [RSS] (http://chrome.blogspot.com/atom.xml)
 * [Google Chrome Releases] (http://googlechromereleases.blogspot.com/) Feeds: [RSS] (http://googlechromereleases.blogspot.com/atom.xml)
+* [Chromium (Open-source / dev version of Google Chrome)] (http://blog.chromium.org/) Feeds: [RSS] (http://blog.chromium.org/feeds/posts/default)
 * Mozilla Firefox
 * [Internet Explorer] (http://blogs.msdn.com/ie/) Feeds: [RSS] (http://blogs.msdn.com/ie/atom.xml)
 

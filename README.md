@@ -42,6 +42,7 @@ These are the leading content frameworks that developers use to quickly build-ou
 
 * [Drupal] (http://drupal.org) Feeds: [RSS] (http://drupal.org/node/feed)
 * [Planet Drupal] (http://drupal.org/planet) Feeds: [RSS] (http://drupal.org/planet/rss.xml)
+* [Joomla!] (http://www.joomla.org) Feeds: [RSS] (http://www.joomla.org/announcements.feed?type=rss)
 * [Wordpress] (http://wordpress.org) Feeds: [RSS] (http://wordpress.org/news/feed/)
 * [Planet Wordpress] (http://planet.wordpress.org/) Feeds: [RSS] (http://planet.wordpress.org/feed/)
 

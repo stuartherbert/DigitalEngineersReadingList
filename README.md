@@ -12,7 +12,7 @@ PHP Development
 
 * [Planet PHP] (http://www.planet-php.net) Feeds: [RSS] ()
 
-    This is your one-stop shop for keeping up with the blogs of individual developers working in PHP today.  Anyone who is doing useful work for the wider PHP community will be on here.
+    This is your one-stop shop for keeping up with the blogs of individual developers working in PHP today.  Anyone who is doing useful work for the wider PHP community will be on here.  In fact, I'd go as far as saying that anyone who is blogging about PHP but isn't on Planet PHP ... I'd be questioning why not.
 
 Browsers
 --------
@@ -33,5 +33,7 @@ Back Office / Server-Side Stuff
 
 * [Programmable Web] (http://www.programmableweb.com) Feeds: [RSS] (http://feedproxy.google.com/ProgrammableWeb)
 
+LAMP Stack Users
+----------------
 
-
+If you use Linux anywhere in your development, test or production environments, then you must must *must* go out right now and purchase a subscription to [Linux Weekly News] (http://lwn.net). It is the one place to keep up with what is going on in the Linux community, and is worth every single penny.

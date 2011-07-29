@@ -33,6 +33,7 @@ I'm not a Rails developer myself, but there's no denying that Rails has led wher
 
 * [Riding Rails] (http://weblog.rubyonrails.org/) Feeds: [RSS] (http://feeds.feedburner.com/RidingRails)
 * [Ruby Inside] (http://www.rubyinside.com/) Feeds: [RSS] (http://www.rubyinside.com/feed/)
+* [Ruby Flow] (http://www.rubyflow.com/) Feeds: [RSS] (http://feeds.feedburner.com/Rubyflow)
 * [The ChangeLog] (http://thechangelog.com/) Feeds: [RSS] (http://feeds.feedburner.com/thechangelog)
 
 Browsers

@@ -14,6 +14,10 @@ PHP Development
 
     This is your one-stop shop for keeping up with the blogs of individual developers working in PHP today.  Anyone who is doing useful work for the wider PHP community will be on here.  In fact, I'd go as far as saying that anyone who is blogging about PHP but isn't on Planet PHP ... I'd be questioning why not.
 
+* [Planet MySQL] (http://www.planetmysql.org/) Feeds: [RSS] (http://www.planetmysql.org/rss20.xml)
+
+    The same is true of Planet MySQL.
+
 Browsers
 --------
 

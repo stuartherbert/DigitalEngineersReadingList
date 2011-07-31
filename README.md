@@ -148,9 +148,11 @@ Third-party blogs about Facebook that you might find useful too:
 
 **Google:**
 
+Google have many many blogs, and keeping track of them all would probably leave you no time for design or coding!  Many of the important stories get cross-posted to Google's official blog:
+
 * [Official Google Blog] (http://googleblog.blogspot.com/) Feeds: [RSS] (http://googleblog.blogspot.com/atom.xml)
 
-Other Google blogs useful to developers:
+... but it's also worth looking at some of Google's other blogs too to see what they're up to and how it might affect your own work:
 
 * [Google Code] (http://code.google.com) Feeds: [RSS] (http://feeds2.feedburner.com/GoogleCodeNews)
 * [Google Code Videos] (http://www.youtube.com/GoogleDevelopers) Feeds: [RSS] (http://gdata.youtube.com/feeds/base/users/GoogleDevelopers/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile)

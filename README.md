@@ -122,6 +122,8 @@ These blogs are useful because they're aimed as much at people who use technolog
 * [Ars Technica] (http://arstechnica.com/) Feeds: [RSS] (http://feeds.arstechnica.com/arstechnica/everything)
 * [Guardian Technology] (http://www.guardian.co.uk/technology) Feeds: [RSS] (http://feeds.guardian.co.uk/theguardian/technology/rss)
 
+The [BloggerBoard] (http://www.crunchbase.com/bloggerboard/tech/publications) is also a useful place to look if you'd like to find more general tech blogs to add to your own daily reading.
+
 Tech Giants
 -----------
 

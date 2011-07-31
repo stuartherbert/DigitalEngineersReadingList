@@ -71,6 +71,7 @@ Web Design / Frontend Stuff
 ---------------------------
 
 * [A List Apart] (http://www.alistapart.com) Feeds: [RSS] (http://www.alistapart.com/rss.xml)
+* [Smashing Magazine's Coding Section] (http://coding.smashingmagazine.com/) Feeds: [RSS] (http://rss1.smashingmagazine.com/feed/)
 * [Think Vitamin] (http://thinkvitamin.com) Feeds: [RSS] (http://feeds.feedburner.com/vitaminmasterfeed)
 * [UX Matters] (http://www.uxmatters.com/) Feeds: [RSS] (http://www.uxmatters.com/index.xml)
 * [UX Movement] (http://uxmovement.com) Feeds: [RSS] (http://uxmovement.com/rss-feed/)

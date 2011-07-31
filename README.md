@@ -71,7 +71,6 @@ Web Design / Frontend Stuff
 ---------------------------
 
 * [A List Apart] (http://www.alistapart.com) Feeds: [RSS] (http://www.alistapart.com/rss.xml)
-* [Smashing Magazine's Coding Section] (http://coding.smashingmagazine.com/) Feeds: [RSS] (http://rss1.smashingmagazine.com/feed/?f=coding-std)
 * [Think Vitamin] (http://thinkvitamin.com) Feeds: [RSS] (http://feeds.feedburner.com/vitaminmasterfeed)
 * [UX Matters] (http://www.uxmatters.com/) Feeds: [RSS] (http://www.uxmatters.com/index.xml)
 * [UX Movement] (http://uxmovement.com) Feeds: [RSS] (http://uxmovement.com/rss-feed/)
@@ -151,6 +150,12 @@ These aren't all strictly tech blogs, but I'd recommend them anyway to help you 
 * [LifeHacker] (http://lifehacker.com) Feeds: [RSS] (http://www.lifehacker.com/software/mac-os-x/index.xml)
 * [MindHacks] (http://www.mindhacks.com) Feeds: [RSS] (http://www.mindhacks.com/index.rdf)
 
+Sites Being Auditioned
+----------------------
+
+These are sites I've come across (or have been recommended recently), which I'm reading to see if they are of sufficient quality to make the list.
+
+* [Smashing Magazine's Coding Section] (http://coding.smashingmagazine.com/) Feeds: [RSS] (http://rss1.smashingmagazine.com/feed/?f=coding-std)
 
 And Last But Not Least
 ----------------------

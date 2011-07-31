@@ -192,6 +192,7 @@ Sites Being Auditioned
 
 These are sites I've come across (or have been recommended recently), which I'm reading to see if they are of sufficient quality to make the list.
 
+* [Planet RDF] (http://planetrdf.com/) Feeds: [RSS] (http://planetrdf.com/index.rdf)
 * [Smashing Magazine's Coding Section] (http://coding.smashingmagazine.com/) Feeds: [RSS] (http://rss1.smashingmagazine.com/feed/?f=coding-std)
 
 And Last But Not Least

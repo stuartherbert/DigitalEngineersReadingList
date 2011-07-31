@@ -150,6 +150,10 @@ Other Google blogs useful to developers:
 
 * [MSDN Blog] (http://blogs.msdn.com/) Feeds: [RSS] (http://blogs.msdn.com/b/MainFeed.aspx?Type=BlogsOnly)
 
+**Twitter:**
+
+* [Official Twitter Blog] (http://blog.twitter.com) Feeds: [RSS] (http://feeds.feedburner.com/TwitterBlog)
+
 Startups
 --------
 

@@ -133,6 +133,10 @@ Today's tech giants set the trends, and open-source the technologies, that tomor
 * [Facebook Developers Network] (http://developers.facebook.com/blog/) [RSS] (http://developers.facebook.com/news.php?blog=1&format=xml)
 * [Inside Facebook] (http://www.insidefacebook.com) Feeds: [RSS] (http://feeds.feedburner.com/InsideFacebook)
 
+**Google:**
+
+* [Google Code] (http://code.google.com) Feeds: [RSS] (http://feeds2.feedburner.com/GoogleCodeNews)
+
 Startups
 --------
 

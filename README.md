@@ -97,6 +97,7 @@ Once you've subscribed to Linux Weekly News, you might find the following sites 
 It isn't possible to make an exhaustive list of Linux distro-specific blogs to read, so I've decided to focus on just the leading Linux distros for this list.
 
 * [Planet Debian] (http://planet.debian.org/) Feeds: [RSS] (http://planet.debian.org/rss20.xml)
+* [Planet Fedora] (http://planet.fedoraproject.org/) Feeds: [RSS] (http://planet.fedoraproject.org/rss20.xml)
 * [Ubuntu / Canonical News] (http://www.canonical.com/about-canonical/news-and-events) Feeds: [RSS] (http://www.canonical.com/rss.xml)
 * [Planet Ubuntu] (http://planet.ubuntu.com/) Feeds: [RSS] (http://planet.ubuntu.com/rss20.xml)
 

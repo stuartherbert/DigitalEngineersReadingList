@@ -94,6 +94,10 @@ Once you've subscribed to Linux Weekly News, you might find the following sites 
 
 * [Freshmeat] (http://freshmeat.net) Feeds: [RSS] (http://freshmeat.net/?format=atom)
 
+It isn't possible to make an exhaustive list of Linux distro-specific blogs to read, so I've decided to focus on just the leading Linux distros for this list.
+
+* [Planet Debian] (http://planet.debian.org/) Feeds: [RSS] (http://planet.debian.org/rss20.xml)
+
 Servers, Platforms, Clouds, Enterprise
 --------------------------------------
 

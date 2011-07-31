@@ -127,6 +127,14 @@ Tech Giants
 
 Today's tech giants set the trends, and open-source the technologies, that tomorrow's startups are keen to follow and use.
 
+**Apple:**
+
+Apple don't really blog anything publicly for developers to follow. If that ever changes, I'll happily add their blogs.
+
+Until then, the rest of the tech blog community seems to cover general Apple news just fine.  For Apple-specific blogs, try the following:
+
+* [The Unofficial Apple Weblog] (http://www.tuaw.com/) Feeds: [RSS] (http://www.tuaw.com/rss.xml)
+
 **Facebook:**
 
 * [Official Facebook Blog] (http://blog.facebook.com/) Feeds: [RSS] (http://blog.facebook.com/atom.php)

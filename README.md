@@ -46,6 +46,10 @@ These are the leading content frameworks that developers use to quickly build-ou
 * [Wordpress] (http://wordpress.org) Feeds: [RSS] (http://wordpress.org/news/feed/)
 * [Planet Wordpress] (http://planet.wordpress.org/) Feeds: [RSS] (http://planet.wordpress.org/feed/)
 
+These are leading components that developers can use to avoid re-inventing the wheel:
+
+* [Planet PEAR] (http://planet-pear.org/) Feeds: [RSS] (http://feeds.feedburner.com/PLANETPEAR)
+
 Ruby On Rails Development
 -------------------------
 

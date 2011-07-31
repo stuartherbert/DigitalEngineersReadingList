@@ -98,6 +98,7 @@ It isn't possible to make an exhaustive list of Linux distro-specific blogs to r
 
 * [Planet Debian] (http://planet.debian.org/) Feeds: [RSS] (http://planet.debian.org/rss20.xml)
 * [Planet Fedora] (http://planet.fedoraproject.org/) Feeds: [RSS] (http://planet.fedoraproject.org/rss20.xml)
+* [RedHat News] (http://www.redhat.com/about/news/blog/) Feeds: [RSS] (http://www.redhat.com/rss/feeds/news?rhCategory=null)
 * [Ubuntu / Canonical News] (http://www.canonical.com/about-canonical/news-and-events) Feeds: [RSS] (http://www.canonical.com/rss.xml)
 * [Planet Ubuntu] (http://planet.ubuntu.com/) Feeds: [RSS] (http://planet.ubuntu.com/rss20.xml)
 

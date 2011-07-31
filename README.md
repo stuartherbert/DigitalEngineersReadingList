@@ -154,6 +154,7 @@ Other Google blogs useful to developers:
 
 * [Google Code] (http://code.google.com) Feeds: [RSS] (http://feeds2.feedburner.com/GoogleCodeNews)
 * [Google Code Videos] (http://www.youtube.com/GoogleDevelopers) Feeds: [RSS] (http://gdata.youtube.com/feeds/base/users/GoogleDevelopers/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile)
+* [Official Google Mobile Blog] (http://googlemobile.blogspot.com/) Feeds: [RSS] (http://googlemobile.blogspot.com/atom.xml)
 
 **Microsoft:**
 

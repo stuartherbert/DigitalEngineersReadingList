@@ -92,6 +92,8 @@ Once you've subscribed to Linux Weekly News, you might find the following sites 
 Servers, Platforms, Clouds, Enterprise
 --------------------------------------
 
+Your code ultimately has to run in production on a server of some kind ... and be networked up to the wider world so that people can come and enjoy your work.  And if you're smart, or lucky (or both!), you'll need to start scaling your work.
+
 * [High Scalability] (http://highscalability.com) Feeds: [RSS] (http://highscalability.com/rss.xml)
 * [InfoQ] (http://infoq.com) Feeds: [RSS] (http://www.infoq.com/rss/rss.action?token=fz2XKmURyotcK9328S1OPeg3TKsydT5A)
 

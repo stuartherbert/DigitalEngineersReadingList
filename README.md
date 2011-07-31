@@ -160,7 +160,7 @@ Miscellaneous Stuff
 These aren't all strictly tech blogs, but I'd recommend them anyway to help you be a more self-sufficient and thoughtful dev.
 
 * [LifeHack] (http://lifehack.org) Feeds: [RSS] (http://feeds.feedburner.com/LifeHack/)
-* [LifeHacker] (http://lifehacker.com) Feeds: [RSS] (http://www.lifehacker.com/software/mac-os-x/index.xml)
+* [LifeHacker] (http://lifehacker.com) Feeds: [RSS] (http://www.lifehacker.com/index.xml)
 * [MindHacks] (http://www.mindhacks.com) Feeds: [RSS] (http://www.mindhacks.com/index.rdf)
 
 Sites Being Auditioned

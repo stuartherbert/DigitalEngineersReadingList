@@ -129,8 +129,12 @@ Today's tech giants set the trends, and open-source the technologies, that tomor
 
 **Facebook:**
 
-* [All Facebook] (http://www.allfacebook.com/) Feeds: [RSS] (http://feeds.feedburner.com/allfacebook)
+* [Official Facebook Blog] (http://blog.facebook.com/) Feeds: [RSS] (http://blog.facebook.com/atom.php)
 * [Facebook Developers Network] (http://developers.facebook.com/blog/) [RSS] (http://developers.facebook.com/news.php?blog=1&format=xml)
+
+Third-party blogs about Facebook that you might find useful too:
+
+* [All Facebook] (http://www.allfacebook.com/) Feeds: [RSS] (http://feeds.feedburner.com/allfacebook)
 * [Inside Facebook] (http://www.insidefacebook.com) Feeds: [RSS] (http://feeds.feedburner.com/InsideFacebook)
 
 **Google:**

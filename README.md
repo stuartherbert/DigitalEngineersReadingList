@@ -93,6 +93,7 @@ If you use Linux anywhere in your development, test or production environments, 
 Once you've subscribed to Linux Weekly News, you might find the following sites to be sources of useful additional information:
 
 * [Freshmeat] (http://freshmeat.net) Feeds: [RSS] (http://freshmeat.net/?format=atom)
+* [HowtoForge] (http://www.howtoforge.com/) Feeds: [RSS] (http://www.howtoforge.com/feed.rss)
 
 It isn't possible to make an exhaustive list of Linux distro-specific blogs to read, so I've decided to focus on just the leading Linux distros for this list.
 

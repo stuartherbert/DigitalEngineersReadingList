@@ -75,6 +75,7 @@ Web Design / Frontend Stuff
 ---------------------------
 
 * [A List Apart] (http://www.alistapart.com) Feeds: [RSS] (http://www.alistapart.com/rss.xml)
+* [FunctionSource] (http://functionsource.com/) Feeds: [RSS] (http://functionsource.com/feeds/entries)
 * [Schema Blog] (http://blog.schema.org/) Feeds: [RSS] (http://blog.schema.org/feeds/posts/default)
 * [Think Vitamin] (http://thinkvitamin.com) Feeds: [RSS] (http://feeds.feedburner.com/vitaminmasterfeed)
 * [UX Matters] (http://www.uxmatters.com/) Feeds: [RSS] (http://www.uxmatters.com/index.xml)

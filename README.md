@@ -84,6 +84,9 @@ Web Design / Frontend Stuff
 Back Office / Server-Side Stuff
 -------------------------------
 
+APIs / web services are a great way to add new features to your app without having to build them yourself.  Here are the best sites to follow to learn about new APIs being released, and changes to existing APIs:
+
+* [Mashery] (http://blog.mashery.com/) Feeds: [RSS] (http://blog.mashery.com/rss.xml)
 * [Programmable Web] (http://www.programmableweb.com) Feeds: [RSS] (http://feedproxy.google.com/ProgrammableWeb)
 
 LAMP Stack Users
